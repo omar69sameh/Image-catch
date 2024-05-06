@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\problem_21\bin\Debug\problem_21.exe.config
+C:\Users\HP\OneDrive\Desktop\problem_21\bin\Debug\problem_21.exe
+C:\Users\HP\OneDrive\Desktop\problem_21\bin\Debug\problem_21.pdb
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.exe
+C:\Users\HP\OneDrive\Desktop\problem_21\obj\Debug\problem_21.pdb
